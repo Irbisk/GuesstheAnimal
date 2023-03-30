@@ -1,0 +1,45 @@
+{
+  "data" : "Can it climb the trees?\n",
+  "left" : {
+    "data" : "Is it living in the forest?\n",
+    "left" : {
+      "data" : "Does it have hvostik-kryuchok?",
+      "left" : {
+        "data" : "a dog"
+      },
+      "right" : {
+        "data" : "a pig"
+      }
+    },
+    "right" : {
+      "data" : "Is it very big?",
+      "left" : {
+        "data" : "a fox"
+      },
+      "right" : {
+        "data" : "a bear"
+      }
+    }
+  },
+  "right" : {
+    "data" : "Does it have vhost?",
+    "left" : {
+      "data" : "Is it living in the forest?",
+      "left" : {
+        "data" : "a cat"
+      },
+      "right" : {
+        "data" : "Is it living in the forest?",
+        "left" : {
+          "data" : "a lynx"
+        },
+        "right" : {
+          "data" : "a lynx"
+        }
+      }
+    },
+    "right" : {
+      "data" : "a belka"
+    }
+  }
+}

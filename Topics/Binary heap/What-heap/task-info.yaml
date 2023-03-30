@@ -1,0 +1,24 @@
+type: dataset
+custom_name: What-heap?
+files:
+- name: data/sample/input.txt
+  visible: true
+  text: |
+    48 43 37 41 27 18 30 36 24 18 19 0 7 18 23 1 30 11 18 3
+    49 33 44 33 32 34 41 29 33 11 31 14 32 1 36 11 23 17 17 8
+    47 44 36 39 41 11 25 31 32 33 36 4 8 16 19 16 29 2 17 26
+  learner_created: false
+- name: src/Task.java
+  visible: true
+  text: "// write your code here \n\npublic class Task {\n  public static void main(String[]\
+    \ args) {\n    // put your code here\n  }\n}\n"
+  learner_created: false
+- name: data/dataset/input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/17257#comment
+status: Solved
+feedback:
+  message: <html>You are right</html>
+  time: Fri, 24 Mar 2023 14:20:00 UTC
+record: -1
